@@ -2,3 +2,4 @@ data/
 _pycache_/
 parameters/
 alpha_tunning/
+split/
